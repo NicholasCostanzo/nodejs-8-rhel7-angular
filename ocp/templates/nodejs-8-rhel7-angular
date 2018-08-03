@@ -19,7 +19,7 @@ spec:
   runPolicy: Serial
   source:
     git:
-      uri: https://tfs.ups.com/tfs/UpsProd/P05CGit_PCM_Openshift/_git/nodejs-6-rhel7-angular-ups
+      uri: https://github.com/NicholasCostanzo/nodejs-8-rhel7-angular.git
     sourceSecret:
       name: gitsecret
     type: Git
