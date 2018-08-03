@@ -31,7 +31,6 @@ spec:
         namespace: krang
     type: Docker
   triggers:
-    type: Generic
   - type: ConfigChange
   - imageChange: {}
     type: ImageChange
